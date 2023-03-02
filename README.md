@@ -10,4 +10,5 @@ STEP 2: Neural Network Model
   Part 3. Use the best set of hyperparameters to build a final model
   Part 4. Register the model in MLflow and use the model to make predictions
   
-This repo follow instructions notebooks created by DataBricks
+This repo follow instructions notebooks provided on DataBricks websites
+
