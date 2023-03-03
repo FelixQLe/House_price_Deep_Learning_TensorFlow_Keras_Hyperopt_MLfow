@@ -12,3 +12,4 @@ STEP 2: Neural Network Model
   
 This repo follow instructions notebooks provided on DataBricks websites
 
+![Screenshot 2023-03-02 at 10 43 13 PM](https://user-images.githubusercontent.com/93171100/222626298-50bb2cd9-a994-41bb-b80d-5fbc7210dc8e.png)
