@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/752324631f514d0d9d7e8ef942b795d0/artifacts
+end_time: 1677818326213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 752324631f514d0d9d7e8ef942b795d0
+run_name: shivering-doe-837
+run_uuid: 752324631f514d0d9d7e8ef942b795d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677818282808
+status: 4
+tags: []
+user_id: hople

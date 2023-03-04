@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/cd2abafef78a4b45ad66f964cddad1fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd2abafef78a4b45ad66f964cddad1fb
+run_name: brawny-dog-216
+run_uuid: cd2abafef78a4b45ad66f964cddad1fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821234979
+status: 1
+tags: []
+user_id: hople

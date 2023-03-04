@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/6028fc63ee5840f9af9e529015fba479/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6028fc63ee5840f9af9e529015fba479
+run_name: luxuriant-stag-648
+run_uuid: 6028fc63ee5840f9af9e529015fba479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821223791
+status: 1
+tags: []
+user_id: hople

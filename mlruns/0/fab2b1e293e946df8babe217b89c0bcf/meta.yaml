@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/fab2b1e293e946df8babe217b89c0bcf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fab2b1e293e946df8babe217b89c0bcf
+run_name: salty-bird-52
+run_uuid: fab2b1e293e946df8babe217b89c0bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821448145
+status: 1
+tags: []
+user_id: hople

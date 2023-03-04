@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/031173b264bb4fb79b22f0cc77f7c141/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 031173b264bb4fb79b22f0cc77f7c141
+run_name: receptive-doe-477
+run_uuid: 031173b264bb4fb79b22f0cc77f7c141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821417536
+status: 1
+tags: []
+user_id: hople

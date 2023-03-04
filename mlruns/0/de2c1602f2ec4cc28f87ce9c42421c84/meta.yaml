@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/de2c1602f2ec4cc28f87ce9c42421c84/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de2c1602f2ec4cc28f87ce9c42421c84
+run_name: calm-bird-585
+run_uuid: de2c1602f2ec4cc28f87ce9c42421c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821422737
+status: 1
+tags: []
+user_id: hople

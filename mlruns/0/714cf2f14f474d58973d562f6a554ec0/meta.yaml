@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/714cf2f14f474d58973d562f6a554ec0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 714cf2f14f474d58973d562f6a554ec0
+run_name: bold-skink-648
+run_uuid: 714cf2f14f474d58973d562f6a554ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821426781
+status: 1
+tags: []
+user_id: hople

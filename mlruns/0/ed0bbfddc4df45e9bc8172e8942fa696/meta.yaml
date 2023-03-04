@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/ed0bbfddc4df45e9bc8172e8942fa696/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed0bbfddc4df45e9bc8172e8942fa696
+run_name: legendary-horse-619
+run_uuid: ed0bbfddc4df45e9bc8172e8942fa696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821445133
+status: 1
+tags: []
+user_id: hople

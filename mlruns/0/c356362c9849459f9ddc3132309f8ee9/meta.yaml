@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/c356362c9849459f9ddc3132309f8ee9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c356362c9849459f9ddc3132309f8ee9
+run_name: skillful-mink-327
+run_uuid: c356362c9849459f9ddc3132309f8ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821208522
+status: 1
+tags: []
+user_id: hople

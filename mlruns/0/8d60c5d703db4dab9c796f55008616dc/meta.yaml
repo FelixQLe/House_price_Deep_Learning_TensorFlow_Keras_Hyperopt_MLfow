@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/8d60c5d703db4dab9c796f55008616dc/artifacts
+end_time: 1677818363079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d60c5d703db4dab9c796f55008616dc
+run_name: sassy-fly-506
+run_uuid: 8d60c5d703db4dab9c796f55008616dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677818363073
+status: 4
+tags: []
+user_id: hople

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/2551d17f26f24cc7804e2daf75013d2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2551d17f26f24cc7804e2daf75013d2f
+run_name: whimsical-horse-786
+run_uuid: 2551d17f26f24cc7804e2daf75013d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821424965
+status: 1
+tags: []
+user_id: hople

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/15e06dcf8d6b4bdda73362203d35b5bc/artifacts
+end_time: 1677821065030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15e06dcf8d6b4bdda73362203d35b5bc
+run_name: amazing-cow-873
+run_uuid: 15e06dcf8d6b4bdda73362203d35b5bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821048391
+status: 4
+tags: []
+user_id: hople

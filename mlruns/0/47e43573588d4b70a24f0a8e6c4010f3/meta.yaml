@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/47e43573588d4b70a24f0a8e6c4010f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47e43573588d4b70a24f0a8e6c4010f3
+run_name: sedate-snail-709
+run_uuid: 47e43573588d4b70a24f0a8e6c4010f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821221921
+status: 1
+tags: []
+user_id: hople

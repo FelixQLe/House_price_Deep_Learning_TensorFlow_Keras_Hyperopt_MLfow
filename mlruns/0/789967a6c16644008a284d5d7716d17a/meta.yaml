@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/789967a6c16644008a284d5d7716d17a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 789967a6c16644008a284d5d7716d17a
+run_name: traveling-shark-720
+run_uuid: 789967a6c16644008a284d5d7716d17a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821414889
+status: 1
+tags: []
+user_id: hople

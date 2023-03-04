@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/825ebbdc8acc423eb41d73de080b3289/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 825ebbdc8acc423eb41d73de080b3289
+run_name: powerful-dolphin-285
+run_uuid: 825ebbdc8acc423eb41d73de080b3289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677821413175
+status: 1
+tags: []
+user_id: hople

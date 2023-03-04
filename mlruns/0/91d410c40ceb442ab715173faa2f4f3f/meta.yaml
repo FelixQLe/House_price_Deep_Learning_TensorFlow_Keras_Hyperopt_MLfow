@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/91d410c40ceb442ab715173faa2f4f3f/artifacts
+end_time: 1677819653787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91d410c40ceb442ab715173faa2f4f3f
+run_name: legendary-mule-315
+run_uuid: 91d410c40ceb442ab715173faa2f4f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677819635666
+status: 4
+tags: []
+user_id: hople

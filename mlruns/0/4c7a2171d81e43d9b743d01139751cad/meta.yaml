@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/4c7a2171d81e43d9b743d01139751cad/artifacts
+end_time: 1677819609892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c7a2171d81e43d9b743d01139751cad
+run_name: dapper-lynx-295
+run_uuid: 4c7a2171d81e43d9b743d01139751cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677819593779
+status: 4
+tags: []
+user_id: hople
