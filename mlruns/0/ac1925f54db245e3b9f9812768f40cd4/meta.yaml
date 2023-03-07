@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/ac1925f54db245e3b9f9812768f40cd4/artifacts
+end_time: 1678156967311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac1925f54db245e3b9f9812768f40cd4
+run_name: capricious-mare-580
+run_uuid: ac1925f54db245e3b9f9812768f40cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156954661
+status: 3
+tags: []
+user_id: hople

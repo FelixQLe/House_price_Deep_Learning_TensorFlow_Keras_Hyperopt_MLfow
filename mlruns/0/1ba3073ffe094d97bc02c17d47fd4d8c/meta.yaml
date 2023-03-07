@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/1ba3073ffe094d97bc02c17d47fd4d8c/artifacts
+end_time: 1678157150631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ba3073ffe094d97bc02c17d47fd4d8c
+run_name: legendary-calf-716
+run_uuid: 1ba3073ffe094d97bc02c17d47fd4d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157137503
+status: 3
+tags: []
+user_id: hople

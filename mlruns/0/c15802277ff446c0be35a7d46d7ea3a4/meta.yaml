@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/c15802277ff446c0be35a7d46d7ea3a4/artifacts
+end_time: 1678157724665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c15802277ff446c0be35a7d46d7ea3a4
+run_name: upset-penguin-651
+run_uuid: c15802277ff446c0be35a7d46d7ea3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157710598
+status: 3
+tags: []
+user_id: hople

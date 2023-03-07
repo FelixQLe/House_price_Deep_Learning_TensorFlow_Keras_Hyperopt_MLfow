@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/22a343d79a5148c29604f2e9debda1e4/artifacts
+end_time: 1678157375123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22a343d79a5148c29604f2e9debda1e4
+run_name: sedate-cod-696
+run_uuid: 22a343d79a5148c29604f2e9debda1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157361831
+status: 3
+tags: []
+user_id: hople

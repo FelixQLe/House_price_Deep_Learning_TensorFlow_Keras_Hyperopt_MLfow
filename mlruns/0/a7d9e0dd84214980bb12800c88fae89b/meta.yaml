@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/a7d9e0dd84214980bb12800c88fae89b/artifacts
+end_time: 1678157341618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7d9e0dd84214980bb12800c88fae89b
+run_name: traveling-ray-98
+run_uuid: a7d9e0dd84214980bb12800c88fae89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157328749
+status: 3
+tags: []
+user_id: hople

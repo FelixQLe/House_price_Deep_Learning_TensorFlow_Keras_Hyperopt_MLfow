@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/e64f8e9e9f6143fda38d73b4bae88003/artifacts
+end_time: 1678156424875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e64f8e9e9f6143fda38d73b4bae88003
+run_name: gifted-midge-822
+run_uuid: e64f8e9e9f6143fda38d73b4bae88003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156390464
+status: 4
+tags: []
+user_id: hople

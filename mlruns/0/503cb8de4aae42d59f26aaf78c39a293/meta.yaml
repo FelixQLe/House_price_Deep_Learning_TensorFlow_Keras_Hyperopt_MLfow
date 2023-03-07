@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/503cb8de4aae42d59f26aaf78c39a293/artifacts
+end_time: 1678157199765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 503cb8de4aae42d59f26aaf78c39a293
+run_name: capricious-whale-970
+run_uuid: 503cb8de4aae42d59f26aaf78c39a293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157186663
+status: 3
+tags: []
+user_id: hople

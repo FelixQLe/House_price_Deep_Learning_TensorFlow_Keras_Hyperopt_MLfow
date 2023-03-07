@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/9c242d11c84a4b46a4d5d6c979b7c2fa/artifacts
+end_time: 1678156849250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c242d11c84a4b46a4d5d6c979b7c2fa
+run_name: likeable-fish-290
+run_uuid: 9c242d11c84a4b46a4d5d6c979b7c2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156835968
+status: 3
+tags: []
+user_id: hople

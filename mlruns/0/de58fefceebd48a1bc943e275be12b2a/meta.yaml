@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/de58fefceebd48a1bc943e275be12b2a/artifacts
+end_time: 1678157133823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de58fefceebd48a1bc943e275be12b2a
+run_name: honorable-loon-354
+run_uuid: de58fefceebd48a1bc943e275be12b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157120375
+status: 3
+tags: []
+user_id: hople

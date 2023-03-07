@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/50748f8e5153464da8043fb040cfd9b8/artifacts
+end_time: 1678156762266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50748f8e5153464da8043fb040cfd9b8
+run_name: casual-yak-998
+run_uuid: 50748f8e5153464da8043fb040cfd9b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156749051
+status: 3
+tags: []
+user_id: hople

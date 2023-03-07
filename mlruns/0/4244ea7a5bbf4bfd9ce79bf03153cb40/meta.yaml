@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/4244ea7a5bbf4bfd9ce79bf03153cb40/artifacts
+end_time: 1678157232106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4244ea7a5bbf4bfd9ce79bf03153cb40
+run_name: bemused-sloth-87
+run_uuid: 4244ea7a5bbf4bfd9ce79bf03153cb40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156742626
+status: 3
+tags: []
+user_id: hople

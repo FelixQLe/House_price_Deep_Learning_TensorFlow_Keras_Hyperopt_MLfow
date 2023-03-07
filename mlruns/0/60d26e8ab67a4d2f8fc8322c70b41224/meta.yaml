@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/60d26e8ab67a4d2f8fc8322c70b41224/artifacts
+end_time: 1678156919276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60d26e8ab67a4d2f8fc8322c70b41224
+run_name: placid-rat-126
+run_uuid: 60d26e8ab67a4d2f8fc8322c70b41224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156906391
+status: 3
+tags: []
+user_id: hople

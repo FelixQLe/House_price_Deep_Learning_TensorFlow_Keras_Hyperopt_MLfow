@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/36954b955d7844508bef30fe1d60402d/artifacts
+end_time: 1678157758940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36954b955d7844508bef30fe1d60402d
+run_name: chill-shark-652
+run_uuid: 36954b955d7844508bef30fe1d60402d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157745773
+status: 3
+tags: []
+user_id: hople

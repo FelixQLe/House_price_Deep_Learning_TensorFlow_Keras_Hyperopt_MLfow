@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/f7d9ec4becc14795bf9e627b7f3646a8/artifacts
+end_time: 1678157674414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7d9ec4becc14795bf9e627b7f3646a8
+run_name: vaunted-crow-19
+run_uuid: f7d9ec4becc14795bf9e627b7f3646a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157661402
+status: 3
+tags: []
+user_id: hople

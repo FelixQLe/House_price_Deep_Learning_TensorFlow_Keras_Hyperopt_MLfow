@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/474840897adf444a8ffc43e210bcc5c7/artifacts
+end_time: 1678156794899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 474840897adf444a8ffc43e210bcc5c7
+run_name: gregarious-worm-967
+run_uuid: 474840897adf444a8ffc43e210bcc5c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156781934
+status: 3
+tags: []
+user_id: hople

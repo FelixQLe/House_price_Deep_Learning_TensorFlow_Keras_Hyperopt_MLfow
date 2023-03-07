@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/5bfa8c55d3224680a4427b8b7b72d375/artifacts
+end_time: 1678157083429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bfa8c55d3224680a4427b8b7b72d375
+run_name: exultant-dove-194
+run_uuid: 5bfa8c55d3224680a4427b8b7b72d375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157070156
+status: 3
+tags: []
+user_id: hople

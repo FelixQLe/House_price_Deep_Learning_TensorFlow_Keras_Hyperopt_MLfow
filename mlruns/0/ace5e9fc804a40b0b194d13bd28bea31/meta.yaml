@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/ace5e9fc804a40b0b194d13bd28bea31/artifacts
+end_time: 1678157691215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ace5e9fc804a40b0b194d13bd28bea31
+run_name: luminous-zebra-330
+run_uuid: ace5e9fc804a40b0b194d13bd28bea31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157678502
+status: 3
+tags: []
+user_id: hople

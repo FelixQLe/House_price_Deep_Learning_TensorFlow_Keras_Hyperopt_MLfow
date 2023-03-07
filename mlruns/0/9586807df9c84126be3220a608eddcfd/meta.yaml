@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/9586807df9c84126be3220a608eddcfd/artifacts
+end_time: 1678156811871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9586807df9c84126be3220a608eddcfd
+run_name: melodic-crow-674
+run_uuid: 9586807df9c84126be3220a608eddcfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156798859
+status: 3
+tags: []
+user_id: hople

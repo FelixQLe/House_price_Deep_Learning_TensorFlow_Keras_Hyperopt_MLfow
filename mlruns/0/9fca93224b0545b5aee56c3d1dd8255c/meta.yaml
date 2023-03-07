@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/9fca93224b0545b5aee56c3d1dd8255c/artifacts
+end_time: 1678157554770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fca93224b0545b5aee56c3d1dd8255c
+run_name: amazing-seal-426
+run_uuid: 9fca93224b0545b5aee56c3d1dd8255c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157541747
+status: 3
+tags: []
+user_id: hople

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/84035bebef694ae2a117d0140aea2c45/artifacts
+end_time: 1678157183704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84035bebef694ae2a117d0140aea2c45
+run_name: resilient-moth-986
+run_uuid: 84035bebef694ae2a117d0140aea2c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157170641
+status: 3
+tags: []
+user_id: hople

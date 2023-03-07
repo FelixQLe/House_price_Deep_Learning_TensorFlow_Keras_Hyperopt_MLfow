@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/844647e828504da6b5606717849b26c8/artifacts
+end_time: 1678157607488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 844647e828504da6b5606717849b26c8
+run_name: burly-bear-527
+run_uuid: 844647e828504da6b5606717849b26c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678157593165
+status: 3
+tags: []
+user_id: hople

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/922c24be0b5945adbca06009f46e4c56/artifacts
+end_time: 1678156951342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 922c24be0b5945adbca06009f46e4c56
+run_name: stylish-penguin-132
+run_uuid: 922c24be0b5945adbca06009f46e4c56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156938629
+status: 3
+tags: []
+user_id: hople

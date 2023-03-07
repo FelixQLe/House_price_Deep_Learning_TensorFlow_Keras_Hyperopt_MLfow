@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/22f02c6130ab4c2d83b2003f262a99fd/artifacts
+end_time: 1678156866444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22f02c6130ab4c2d83b2003f262a99fd
+run_name: resilient-lamb-219
+run_uuid: 22f02c6130ab4c2d83b2003f262a99fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678156853132
+status: 3
+tags: []
+user_id: hople
