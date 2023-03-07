@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/2240b53b0c5441fd9fb293c903b0ddce/artifacts
+end_time: 1678159358436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2240b53b0c5441fd9fb293c903b0ddce
+run_name: able-stork-834
+run_uuid: 2240b53b0c5441fd9fb293c903b0ddce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678159349123
+status: 3
+tags: []
+user_id: hople

@@ -1,0 +1,12 @@
+creation_timestamp: 1678159782656
+current_stage: None
+description: null
+last_updated_timestamp: 1678159782656
+name: cal_houseing_keras
+run_id: null
+run_link: null
+source: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/2240b53b0c5441fd9fb293c903b0ddce/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
