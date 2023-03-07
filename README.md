@@ -2,7 +2,7 @@
 ### Error Python worker exited unexpected (crashed)
 Update python to version 3.10.9, because SparkTrial() is only compatible with python version => 3.10
 ## -------------
-The Purpose of my repos is to learn, in this repo I try to learn how to use TensorFlow Keras, Hyperopt, MLflow to develop a deep learning model
+The Purpose of my repos is to learn, in this repo I try to learn how to use and configurate TensorFlow Keras, Hyperopt, MLflow to develop a deep learning model
 
 It includes the following steps:
 - STEP 1: DATA PREP
