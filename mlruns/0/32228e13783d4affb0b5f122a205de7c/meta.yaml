@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/32228e13783d4affb0b5f122a205de7c/artifacts
+end_time: 1677905744010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32228e13783d4affb0b5f122a205de7c
+run_name: serious-whale-179
+run_uuid: 32228e13783d4affb0b5f122a205de7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677905619202
+status: 4
+tags: []
+user_id: hople

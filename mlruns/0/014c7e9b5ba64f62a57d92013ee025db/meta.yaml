@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/014c7e9b5ba64f62a57d92013ee025db/artifacts
+end_time: 1677909355864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 014c7e9b5ba64f62a57d92013ee025db
+run_name: beautiful-calf-806
+run_uuid: 014c7e9b5ba64f62a57d92013ee025db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677909322614
+status: 4
+tags: []
+user_id: hople

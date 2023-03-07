@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/6ca95c86670547e79559d27bef3ff86f/artifacts
+end_time: 1677904843852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ca95c86670547e79559d27bef3ff86f
+run_name: orderly-ray-469
+run_uuid: 6ca95c86670547e79559d27bef3ff86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677904803056
+status: 4
+tags: []
+user_id: hople

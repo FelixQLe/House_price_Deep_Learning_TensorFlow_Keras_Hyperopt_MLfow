@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/6a56674b86b34564aeddde4d95462aef/artifacts
+end_time: 1677908518718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a56674b86b34564aeddde4d95462aef
+run_name: luxuriant-stoat-146
+run_uuid: 6a56674b86b34564aeddde4d95462aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677908517519
+status: 4
+tags: []
+user_id: hople

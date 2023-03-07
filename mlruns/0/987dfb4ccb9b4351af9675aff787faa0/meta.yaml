@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/987dfb4ccb9b4351af9675aff787faa0/artifacts
+end_time: 1677908592956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 987dfb4ccb9b4351af9675aff787faa0
+run_name: enchanting-shoat-848
+run_uuid: 987dfb4ccb9b4351af9675aff787faa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677908592631
+status: 4
+tags: []
+user_id: hople

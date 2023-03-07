@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/fcb71a5afa6849959f28b5121d47ab84/artifacts
+end_time: 1677991672138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcb71a5afa6849959f28b5121d47ab84
+run_name: blushing-panda-487
+run_uuid: fcb71a5afa6849959f28b5121d47ab84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677991636811
+status: 4
+tags: []
+user_id: hople

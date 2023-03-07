@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/bfb47fc6e68f4c17987dec4b08eec13b/artifacts
+end_time: 1677992025231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfb47fc6e68f4c17987dec4b08eec13b
+run_name: peaceful-hawk-277
+run_uuid: bfb47fc6e68f4c17987dec4b08eec13b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677991991790
+status: 4
+tags: []
+user_id: hople

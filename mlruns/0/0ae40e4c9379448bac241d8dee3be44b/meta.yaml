@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/0ae40e4c9379448bac241d8dee3be44b/artifacts
+end_time: 1677907133913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ae40e4c9379448bac241d8dee3be44b
+run_name: stately-finch-268
+run_uuid: 0ae40e4c9379448bac241d8dee3be44b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677907096629
+status: 4
+tags: []
+user_id: hople

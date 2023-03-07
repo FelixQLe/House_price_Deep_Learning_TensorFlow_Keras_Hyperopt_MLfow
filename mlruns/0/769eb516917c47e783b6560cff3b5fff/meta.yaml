@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/769eb516917c47e783b6560cff3b5fff/artifacts
+end_time: 1677990896667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 769eb516917c47e783b6560cff3b5fff
+run_name: carefree-lark-396
+run_uuid: 769eb516917c47e783b6560cff3b5fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677990862321
+status: 4
+tags: []
+user_id: hople

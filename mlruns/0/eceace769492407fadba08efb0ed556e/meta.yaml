@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hople/Desktop/Bootcamp_practices/House_price_Deep_Learning_TensorFlow_Keras_Hyperopt_MLfow/mlruns/0/eceace769492407fadba08efb0ed556e/artifacts
+end_time: 1677908773061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eceace769492407fadba08efb0ed556e
+run_name: glamorous-goose-129
+run_uuid: eceace769492407fadba08efb0ed556e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677908772784
+status: 4
+tags: []
+user_id: hople
